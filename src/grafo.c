@@ -24,3 +24,5 @@ typedef struct Fabio
     int id;
     int valor;
 }Fabio; 
+
+///Ghost
