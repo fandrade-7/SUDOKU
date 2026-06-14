@@ -18,3 +18,9 @@ typedef struct  grafo
 {
     vertice celulas[82];
 }grafo;
+
+typedef struct Fabio
+{
+    int id;
+    int valor;
+}Fabio; 
